@@ -33,4 +33,7 @@ URLは `https://toshimaru-dev.github.io/dev-mocks/{スラッグ}/concept.png` �
 
 | スラッグ | アイディア | 状態 |
 |---|---|---|
+| `tsumivest` | ツミベスト（自己投資を資産として可視化） | building |
 | `jisshitsu` | 家電の実質価格くらべ（ジッシツ） | building |
+| `kashikari` | Kashikari.me（立て替えの精算） | released |
+| `moneymap` | MoneyMap（世帯のライフプラン試算） | building |
