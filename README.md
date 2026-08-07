@@ -38,3 +38,4 @@ URLは `https://toshimaru-dev.github.io/dev-mocks/{スラッグ}/concept.png` �
 | `kashikari` | Kashikari.me（立て替えの精算） | released |
 | `moneymap` | MoneyMap（世帯のライフプラン試算） | building |
 | `lifeportal` | ライフポータル（契約・口座・保険の所在をまとめる） | exploring |
+| `nokoridoki` | ノコリドキ（タップだけの時間ジャーナル） | building |
